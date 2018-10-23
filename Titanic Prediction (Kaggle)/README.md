@@ -1,4 +1,4 @@
-# Introductory-Data-Science-Projects
+# Titanic
 Data science projects that will enable me to grasp the basics needed to get insights from data sets.
 
 ## Background
