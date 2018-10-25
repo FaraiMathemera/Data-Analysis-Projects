@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
+# Data-Analysis-Projects (Kaggle)
 Collection of data analysis projects that I have done in order to improve my skills and for general insight into interesting topics.
