@@ -18,7 +18,7 @@ With this project we want to gain the fundamentals of data analysis, by analysin
 There is significant use of NumPy, Pandas, TFLearn for Neural Network Classifier and Data Visualization Libraries.
 
 ## Approach
-My solution will take the shape of a typical data science project: 
+My solution will take the following shape: 
 
 - Modeling 
 - Model fine-tuning

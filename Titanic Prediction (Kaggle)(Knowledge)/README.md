@@ -13,7 +13,7 @@ Here we try to analyze which factors were more likely to contribute to the death
 With this project we want to gain the fundamentals of data analysis, by analysing the factors that determined whether a passenger survived the Titanic disaster or not.
 
 ## Libraries
-There is significant use of NumPy, Pandas, TFLearn for Neural Network Classifier and Data Visualization Libraries.
+There is significant use of NumPy, Pandas, SciKit Learn for Neural Network Classifier and Data Visualization Libraries.
 
 ## Approach
 My solution will take the shape of a typical data science project: 
@@ -25,6 +25,7 @@ My solution will take the shape of a typical data science project:
 - Model fine-tuning
 
 ## Score/Ranking
+0.78947
 
 
 

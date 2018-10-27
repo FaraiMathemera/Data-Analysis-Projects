@@ -9,7 +9,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 (Source. Kaggle, https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Opportunity
-With this project we want to gain the fundamentals of data analysis, by analysing the factors that determined whether a passenger survived the Titanic disaster or not.
+With this project we want to gain the fundamentals of data analysis, by analysing the factors that determined whether the future price of a house.
 
 ## Libraries
 There is significant use of NumPy, Pandas, TFLearn for Neural Network Classifier and Data Visualization Libraries.
@@ -17,10 +17,13 @@ There is significant use of NumPy, Pandas, TFLearn for Neural Network Classifier
 ## Approach
 My solution will take the shape of a typical data science project: 
 
+- Exploratory data analysis with visualizations
+- Data cleaning
+- Feature engineering
 - Modeling 
 - Model fine-tuning
 
 ## Ranking/Score
-0.95414
+0.11566
 
 
