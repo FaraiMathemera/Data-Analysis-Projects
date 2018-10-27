@@ -13,10 +13,9 @@ The general approach I will employ will be:
 ## Libraries
 I am new to data science and have only used a handful of libraries for modelling which have been useful with these problems.
 
--Tensorflow
--KNN
--SciKit Learn
--
+- Tensorflow
+- KNN
+- SciKit Learn
 
 ## Rankings
 I joined Kaggle recently and have realized not to take the rankings too heart, I believe Kaggle is an unbelievable platform which 
