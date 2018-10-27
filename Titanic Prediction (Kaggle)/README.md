@@ -1,5 +1,5 @@
 # Titanic
-Data science projects that will enable me to grasp the basics needed to get insights from data sets.
+This data science project that will enable me to grasp the basics needed to gain insights from data sets and predict outcomes.
 
 ## Background
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
@@ -23,4 +23,8 @@ My solution will take the shape of a typical data science project:
 - Feature engineering
 - Modeling 
 - Model fine-tuning
+
+## Score/Ranking
+
+
 
